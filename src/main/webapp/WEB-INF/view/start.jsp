@@ -589,7 +589,7 @@
     <header>
         <div class="container">
             <div class="logo">
-                <a href="/main"><img src="img/logo.png" alt="로고"></a>
+                <a href="/"><img src="img/logo.png" alt="로고"></a>
             </div>
 
             <nav>

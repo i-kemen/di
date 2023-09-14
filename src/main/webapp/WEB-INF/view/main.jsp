@@ -163,13 +163,13 @@
     <header>
         <div class="container">
             <div class="logo">
-                <a href="/main"><img src="img/logo.png" alt="로고"></a>
+                <a href="/"><img src="img/logo.png" alt="로고"></a>
             </div>
 
             <nav>
                 <ul>
                     <li><a href="/sogae">다이렉트인덱싱</a></li>
-                    <li><a href="/start">시작하기</a></li>
+                    <li><a href="/edit">시작하기</a></li>
                     <li><a href="#">내 포트폴리오</a></li>
                     <li><a href="#">내 전략</a></li>
                     <li><a href="#">모의테스트</a></li>

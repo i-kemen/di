@@ -13,9 +13,27 @@ public class MainController {
         return "main";
     }
 
+    @GetMapping("/edit")
+    public String edit() {
+        return "edit";
+    }
+
     @GetMapping("/start")
     public String start() {
         return "start";
     }
+
+    @GetMapping("/faq")
+    public String faq() {
+        return "faq";
+    }
+
+    @GetMapping("/jamoon")
+    public String jamoon() {
+        return "jamoon";
+    }
+
+
+
 
 }

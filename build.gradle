@@ -45,6 +45,9 @@ dependencies {
 
     implementation 'javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.1'
     implementation 'javax.servlet:jstl:1.2'
+
+    // MyBatis
+    implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.3.1'
 }
 
 tasks.named('test') {
